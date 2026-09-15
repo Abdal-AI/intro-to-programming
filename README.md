@@ -45,5 +45,5 @@ intro-to-programming/
 │
 └── README.md
 #### Certificate
+<img width="4800" height="2960" alt="kaggle-intro-to-programming-certificate png" src="https://github.com/user-attachments/assets/aaf13b91-ca8a-4196-af2d-6765230411e4" />
 
-![Kaggle Intro to Programming Certificate](certificates/kaggle-intro-to-programming-certificate.png)
