@@ -44,3 +44,6 @@ intro-to-programming/
 │   └── small-projects/
 │
 └── README.md
+#### Certificate
+
+![Kaggle Intro to Programming Certificate](certificates/kaggle-intro-to-programming-certificate.png)
